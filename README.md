@@ -6,6 +6,10 @@
 🟩🟩⬛️⬛️⬛️⬛️🟩🟩&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬛⬛⬛⬛⬛⬛⬛⬛  
 🟩🟩⬛️⬛️⬛️⬛️🟩🟩&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬛⬛⬛⬛⬛⬛⬛⬛  
 🟩🟩⬛️🟩🟩⬛️🟩🟩&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬛⬛⬛⬛⬛⬛⬛⬛  
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngbin0417&layout=compact)
 <!--
 **youngbin0417/youngbin0417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
