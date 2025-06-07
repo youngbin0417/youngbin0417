@@ -8,6 +8,9 @@
 🟩🟩⬛️🟩🟩⬛️🟩🟩&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬛⬛⬛⬛⬛⬛⬛⬛  
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngbin0417&show_icons=true&theme=radical)
+
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngbin0417&layout=compact)
 <!--
