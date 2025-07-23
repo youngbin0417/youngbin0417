@@ -18,7 +18,7 @@
 
 
 ---
-Intern in Appraisal firm (developing web program, db, and classifier for estimating price of real estate) : 202501~
+Intern in Appraisal firm (developing web program, db, and ai for estimating price of real estate) : 202501~
 
 <!--
 **youngbin0417/youngbin0417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
