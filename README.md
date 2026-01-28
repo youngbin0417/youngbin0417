@@ -5,9 +5,8 @@
 </p>
 
 ## 🧑‍💻 Identity
-- **Academic:** Computer Science at Konkuk Univ. (GPA 3.92/4.5)
-- **Goal:** 데이터 중심의 AI 서비스를 설계하고 인프라 자동화로 비즈니스 가치를 극대화합니다.
-- **Tone:** 정확성, 기술적 무결성, 그리고 끊임없는 기술적 혁신을 지향합니다.
+- **Academic:** Computer Science at Konkuk Univ. (GPA 3.92/4.5, Major 4.02/4.5)
+- **Goal:** 데이터 중심의 서비스를 설계하고 인프라 자동화로 비즈니스 가치를 극대화합니다.
 
 ---
 
@@ -27,19 +26,17 @@
 
 ## 📂 Featured Experience
 
-| Category | Project | Key Achievement |
-| :--- | :--- | :--- |
-| **Enterprise** | **Valuetouch.kr** | 부동산 가치 평가 모델 통합 및 데이터 무결성 최적화 |
-| **Backend** | **Yuno-Miles-Coder** | FastAPI & Docker 기반 AI 서빙 파이프라인 구축 |
-| **DevOps** | **Infrastructure Auto** | Jenkins 기반 CI/CD 구축 및 AWS 인프라 자동화 |
-| **Future** | **Protestware** | 스테가노그래피 알고리즘 기반 보안 통신 시스템 연구 |
+| Project | Key Achievement |
+| :--- | :--- |
+| **Valuetouch** | https://valuetouch.kr |
+| **yncoder** | http://yncode.click |
 
 ---
 
 ## 🎯 2026 Roadmap
-- [ ] **AWS SAA** (Solutions Architect Associate) ![Progress](https://geps.dev/progress/70)
-- [ ] **CKA** (Certified Kubernetes Administrator) ![Progress](https://geps.dev/progress/40)
-- [ ] **Databricks / Snowflake** Expertise ![Progress](https://geps.dev/progress/20)
+- [ ] **AWS SAA** (Solutions Architect Associate) ![Progress](https://geps.dev/progress/40)
+- [ ] **CKA** (Certified Kubernetes Administrator) ![Progress](https://geps.dev/progress/10)
+- [ ] **Databricks / Snowflake** Expertise ![Progress](https://geps.dev/progress/0)
 
 ---
 
@@ -53,6 +50,6 @@
 
 ## 📫 Connect with Me
 <p align="left">
-<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:youngbin0417@naver.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://linkedin.com/in/youngbin0417"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
