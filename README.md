@@ -1,7 +1,7 @@
 # Full-Stack & AI-Native Engineer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Spring+Foundation;Python+FastAPI+for+AI;CI/CD+with+Jenkins+%26+Docker;AWS+Cloud+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Spring+Foundation;Python+FastAPI+for+AI;CI/CD+with+Jenkins+%26+Docker;Data+Engineering+with+Palantir+Foundry" alt="Typing SVG" />
 </p>
 
 ## Identity
@@ -14,7 +14,7 @@
 
 ## Tech Stack
 
-### **Development**
+### **Development & DB**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,py,fastapi,mysql&theme=dark" />
 </p>
@@ -22,6 +22,19 @@
 ### **DevOps & Infrastructure**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,linux,nginx&theme=dark" />
+</p>
+
+### **AI & Data Engineering(in-study)**
+<p align="left">
+  <img src="https://img.shields.io/badge/Palantir%20Foundry-101010?style=for-the-badge&logo=palantir&logoColor=white">
+  <img src="https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
 </p>
 
 ---
@@ -36,27 +49,25 @@
 ---
 
 ## 🎯 2026 Roadmap
-- [ ] **AWS SAA** (Solutions Architect Associate) ![Progress](https://geps.dev/progress/40)
-- [ ] **CKA** (Certified Kubernetes Administrator) ![Progress](https://geps.dev/progress/10)
-- [ ] **Databricks / Snowflake** Expertise ![Progress](https://geps.dev/progress/0)
-
----
+- [ ] **정보처리기사** ![Progress](https://geps.dev/progress/0)
+- [ ] **AWS SAA** (Solutions Architect Associate) ![Progress](https://geps.dev/progress/20)
+- [ ] **CKA** (Certified Kubernetes Administrator) ![Progress](https://geps.dev/progress/0)
 
 ---
 
 ## Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youngbin0417&theme=onedark&show_icons=true"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=youngbin0417&theme=onedark&show_icons=true&hide_border=true"/>
 </p>
 <p align="center">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngbin0417&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngbin0417&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </p>
 
 ---
 
 ## 📫 Connect with Me
 <p align="left">
-<a href="mailto:youngbin0417@naver.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:bvb090417@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://linkedin.com/in/youngbin0417"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
