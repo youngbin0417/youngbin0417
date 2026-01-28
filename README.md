@@ -1,10 +1,10 @@
-# ⚡️ Full-Stack & AI-Native Engineer
+# Full-Stack & AI-Native Engineer
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Spring+Foundation;Python+FastAPI+for+AI;CI/CD+with+Jenkins+%26+Docker;AWS+Cloud+Architecture" alt="Typing SVG" />
 </p>
 
-## 🧑‍💻 Identity
+## Identity
 - **Academic:** Computer Science at Konkuk Univ. (GPA 3.92/4.5, Major GPA 4.02/4.5)
 - 건국대 학업우수장학금 2회 (2024-2, 2025-1 학기)
 - Dev Intern at Appraisal firm: 2025.01~2025.11
@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### **Development**
 <p align="left">
@@ -26,7 +26,7 @@
 
 ---
 
-## 📂 Featured Experience
+## Featured Experience
 
 | Project | Key Achievement |
 | :--- | :--- |
@@ -42,10 +42,15 @@
 
 ---
 
-## 📊 Statistics
+---
+
+## Statistics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=youngbin0417&theme=onedark&show_icons=true"/></a>
+</p>
+<p align="center">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngbin0417&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </p>
 
 ---
