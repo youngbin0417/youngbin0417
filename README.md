@@ -50,7 +50,7 @@
 ---
 
 ## 🎯 2026 Roadmap
-- [ ] **정보처리기사** ![Progress](https://geps.dev/progress/0)
+- [ ] **정보처리기사** ![Progress](https://geps.dev/progress/50)
 - [ ] **AWS SAA** (Solutions Architect Associate) ![Progress](https://geps.dev/progress/20)
 - [ ] **CKA** (Certified Kubernetes Administrator) ![Progress](https://geps.dev/progress/0)
 
