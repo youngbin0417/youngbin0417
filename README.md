@@ -45,7 +45,7 @@
 | Project | Key Achievement |
 | :--- | :--- |
 | **Valuetouch** | https://valuetouch.kr |
-| **yncoder** | http://yncode.click |
+| **yncoder** (비용문제로 운영 일시중지) | http://yncode.click |
 
 ---
 
@@ -54,16 +54,6 @@
 - [ ] **AWS SAA** (Solutions Architect Associate) ![Progress](https://geps.dev/progress/20)
 - [ ] **CKA** (Certified Kubernetes Administrator) ![Progress](https://geps.dev/progress/0)
 
----
-
-## Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youngbin0417&theme=onedark&show_icons=true&hide_border=true"/>
-</p>
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngbin0417&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</p>
 
 ---
 
