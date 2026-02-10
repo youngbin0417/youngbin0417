@@ -27,7 +27,6 @@
 
 ### **AI & Data Engineering(in-study)**
 <p align="left">
-  <img src="https://img.shields.io/badge/Palantir%20Foundry-101010?style=for-the-badge&logo=palantir&logoColor=white">
   <img src="https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
 </p>
