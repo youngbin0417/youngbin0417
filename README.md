@@ -9,7 +9,6 @@
 - **Academic:** Computer Science at Konkuk Univ. (GPA 3.92/4.5, Major GPA 4.02/4.5)
 - 건국대 학업우수장학금 2회 (2024-2, 2025-1 학기)
 - Dev Intern at Appraisal firm: 2025.01~2025.11
-- **Goal:** 데이터 중심의 서비스를 설계하고 인프라 자동화로 비즈니스 가치를 극대화하는 것을 목표로 합니다.
 
 ---
 
