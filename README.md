@@ -42,8 +42,8 @@
 
 | Project | Key Achievement |
 | :--- | :--- |
-| **Valuetouch** | https://valuetouch.kr |
-| **yncoder** | http://yncode.click |
+| **Valuetouch** | www.valuetouch.kr |
+| **yncoder** | www.yncode.click |
 
 ---
 
