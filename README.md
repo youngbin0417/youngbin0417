@@ -44,7 +44,7 @@
 | Project | Key Achievement |
 | :--- | :--- |
 | **Valuetouch** | https://valuetouch.kr |
-| **yncoder** (비용문제로 운영 일시중지) | http://yncode.click |
+| **yncoder** | http://yncode.click |
 
 ---
 
