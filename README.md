@@ -43,7 +43,7 @@
 | Project | Key Achievement |
 | :--- | :--- |
 | **Valuetouch** | https://valuetouch.kr |
-| **yncoder** | www.yncode.click |
+| **yncoder** | www.yncode.click (paused by financial issue)|
 
 ---
 
