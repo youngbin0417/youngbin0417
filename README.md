@@ -9,7 +9,7 @@
 - **Academic:** Computer Science at Konkuk Univ. (GPA 3.92/4.5, Major GPA 4.02/4.5)
 - 건국대 학업우수장학금 2회 (2024-2, 2025-1 학기)
 - Dev Intern at Appraisal firm: 2025.01.01~2025.11.27
-- KT Aivle School AI Engineer Track: 2025.03.31~2025.09.01
+- KT Aivle School AI Engineer Track: 2026.03.31~2026.09.01
 
 ---
 
