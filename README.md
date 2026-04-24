@@ -7,7 +7,8 @@
 
 ## Identity
 - **Academic:** Computer Science at Konkuk Univ. (GPA 3.92/4.5, Major GPA 4.02/4.5)
-- 건국대 학업우수장학금 2회 (2024-2, 2025-1 학기)
+- 건국대 학업우수장학금 2회 (2024-2, 2025-1학기)
+- Dean's List (2025-2학기)
 - Dev Intern at Appraisal firm: 2025.01.01~2025.11.27
 - KT Aivle School AI Engineer Track: 2026.03.31~2026.09.01
 
@@ -29,6 +30,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
+  <img src="https://img.shields.io/badge/LangGraph-56A4A4?style=for-the-badge&logo=langGraph&logoColor=white">
 </p>
 
 <p align="left">
@@ -51,7 +53,6 @@
 ## 🎯 2026 Roadmap
 - [ ] **정보처리기사** ![Progress](https://geps.dev/progress/50)
 - [ ] **AWS SAA** (Solutions Architect Associate) ![Progress](https://geps.dev/progress/20)
-- [ ] **CKA** (Certified Kubernetes Administrator) ![Progress](https://geps.dev/progress/0)
 
 
 ---
