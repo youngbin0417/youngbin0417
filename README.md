@@ -31,16 +31,17 @@
   <img src="https://skillicons.dev/icons?i=git,github,figma,md,notion,obsidian&theme=dark" />
 </p>
 
-### **AI & Data Engineering(in-study)**
+### **AI & Data Engineering**
 <p align="left">
-  <img src="https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white">
+  <img src="https://img.shields.io/badge/pandas-FF6D5B?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
   <img src="https://img.shields.io/badge/LangGraph-56A4A4?style=for-the-badge&logo=langGraph&logoColor=white">
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
-  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white">
+  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openaicodex&logoColor=white">
+  <img src="https://img.shields.io/badge/claude-D97757?style=for-the-badge&logo=claude&logoColor=white">
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white">
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
 </p>
 
