@@ -18,12 +18,17 @@
 
 ### **Development & DB**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,py,fastapi,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,py,fastapi,django,flask,mysql,sqlite,kotlin,c,html,css,unreal&theme=dark" />
 </p>
 
 ### **DevOps & Infrastructure**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,linux,nginx&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,jenkins,ubuntu,nginx,cloudflare,githubactions,npm&theme=dark" />
+</p>
+
+### **Co-Work**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,md,notion,obsidian&theme=dark" />
 </p>
 
 ### **AI & Data Engineering(in-study)**
