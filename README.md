@@ -48,6 +48,11 @@
 
 ---
 
+## LICENSE
+- AICE associate
+
+---
+
 ## Featured Experience
 
 | Project | Key Achievement |
