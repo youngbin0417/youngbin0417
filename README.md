@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/badge/pandas-FF6D5B?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
   <img src="https://img.shields.io/badge/LangGraph-56A4A4?style=for-the-badge&logo=langGraph&logoColor=white">
+  <img src="https://img.shields.io/badge/LangSmith-9ECBFF?style=for-the-badge&logo=langchain&logoColor=white">
 </p>
 
 <p align="left">
