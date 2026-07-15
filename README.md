@@ -10,7 +10,9 @@
 - 건국대 학업우수장학금 2회 (2024-2, 2025-1학기)
 - Dean's List (2025-2학기)
 - Dev Intern at Appraisal firm: 2025.01.01~2025.11.27
-- KT Aivle School AI Engineer Track: 2026.03.31~2026.09.01
+- KT Aivle School AI Engineer Track: 2026.03.31~2026.07.14(퇴교)
+- Posco DX 전산설계(IT):
+2026.07.27~
 
 ---
 
