@@ -11,7 +11,7 @@
 - Dean's List (2025-2학기)
 - Dev Intern at Appraisal firm: 2025.01.01~2025.11.27
 - KT Aivle School AI Engineer Track: 2026.03.31~2026.07.14(퇴교)
-- Posco DX Hot Working DX section:
+- Posco DX (Hot Working DX team):
 2026.07.27~
 
 ---
